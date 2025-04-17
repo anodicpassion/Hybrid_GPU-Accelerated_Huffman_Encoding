@@ -1,11 +1,12 @@
 # Hybrid_GPU-Accelerated_Huffman_Encoding
+This project demonstrates a hybrid implementation of **Huffman Encoding**, combining **GPU-accelerated frequency analysis using CuPy** with traditional CPU-based Huffman tree construction and encoding. It runs smoothly on **Google Colab with GPU support**. 
 
-This project demonstrates a hybrid implementation of **Huffman Encoding**, combining **GPU-accelerated frequency analysis using CuPy** with traditional CPU-based Huffman tree construction and encoding. It runs smoothly on **Google Colab with GPU support**.
-**[RUN_IN_COLAB](https://colab.research.google.com/drive/1xR_gPCnK5FuTSfRaqT-2-Bg1MYMp4ZJJ?usp=sharing)**
+ **[Click here to open in Colab](https://colab.research.google.com/drive/1xR_gPCnK5FuTSfRaqT-2-Bg1MYMp4ZJJ?usp=sharing)**  
+
 ---
 
 ## 📌 Features
-
+adsf
 - ✅ Frequency counting on **GPU** using CuPy for high-speed analysis
 - ✅ Huffman tree construction on **CPU**
 - ✅ Compression of large strings with customizable input
