@@ -6,7 +6,7 @@ This project demonstrates a hybrid implementation of **Huffman Encoding**, combi
 ---
 
 ## 📌 Features
-adsf
+
 - ✅ Frequency counting on **GPU** using CuPy for high-speed analysis
 - ✅ Huffman tree construction on **CPU**
 - ✅ Compression of large strings with customizable input
